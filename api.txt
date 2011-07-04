@@ -1,0 +1,12 @@
+graph   = Graph(blablah, foo, bar)
+vertex  = graph.createVertex()
+vertex2 = 
+
+
+edge   = graph.link(vertex2)
+edge.set("foo", "bar")
+edge.save()
+
+
+ 
+
